@@ -1,0 +1,10 @@
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\bin\Debug\Editor de Imagen - WF.exe.config
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\bin\Debug\Editor de Imagen - WF.exe
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\bin\Debug\Editor de Imagen - WF.pdb
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\obj\Debug\Editor de Imagen - WF.csproj.AssemblyReference.cache
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\obj\Debug\Editor_de_Imagen___WF.Form1.resources
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\obj\Debug\Editor_de_Imagen___WF.Properties.Resources.resources
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\obj\Debug\Editor de Imagen - WF.csproj.GenerateResource.cache
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\obj\Debug\Editor de Imagen - WF.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\obj\Debug\Editor de Imagen - WF.exe
+C:\Users\guilherme.ssantana9\source\repos\Editor de Imagen - WF\Editor de Imagen - WF\obj\Debug\Editor de Imagen - WF.pdb

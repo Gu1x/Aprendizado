@@ -1,0 +1,12 @@
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\bin\Debug\Jogo Snake.exe.config
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\bin\Debug\Jogo Snake.exe
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\bin\Debug\Jogo Snake.pdb
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo Snake.csproj.AssemblyReference.cache
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo_Snake.FrmSnake.resources
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo_Snake.Properties.Resources.resources
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo Snake.csproj.GenerateResource.cache
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo Snake.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo Snake.exe
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo Snake.pdb
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\Jogo_Snake.Game.resources
+C:\Users\guilherme.ssantana9\source\repos\Jogo Snake\Jogo Snake\obj\Debug\WF___Jogo_da_Cobrinha.Form1.resources

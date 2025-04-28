@@ -1,0 +1,11 @@
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\bin\Debug\My sql - WF.exe.config
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\bin\Debug\My sql - WF.exe
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\bin\Debug\My sql - WF.pdb
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My sql - WF.csproj.AssemblyReference.cache
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My_sql___WF.Properties.Resources.resources
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My sql - WF.csproj.GenerateResource.cache
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My sql - WF.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My sql - WF.exe
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My sql - WF.pdb
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My_sql___WF.FmrOpcoes.resources
+C:\Users\guilherme.ssantana9\source\repos\My sql - WF\My sql - WF\obj\Debug\My_sql___WF.Frm.resources
