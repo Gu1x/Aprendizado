@@ -1,0 +1,10 @@
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\bin\Debug\Jogo Genius.exe.config
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\bin\Debug\Jogo Genius.exe
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\bin\Debug\Jogo Genius.pdb
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\obj\Debug\Jogo Genius.csproj.AssemblyReference.cache
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\obj\Debug\Jogo_Genius.Form1.resources
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\obj\Debug\Jogo_Genius.Properties.Resources.resources
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\obj\Debug\Jogo Genius.csproj.GenerateResource.cache
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\obj\Debug\Jogo Genius.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\obj\Debug\Jogo Genius.exe
+C:\Users\guilherme.ssantana9\source\repos\Jogo Genius - WF\Jogo Genius\obj\Debug\Jogo Genius.pdb

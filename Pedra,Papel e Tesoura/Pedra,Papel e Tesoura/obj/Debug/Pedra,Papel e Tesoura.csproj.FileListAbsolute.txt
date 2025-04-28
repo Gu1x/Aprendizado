@@ -1,0 +1,10 @@
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\obj\Debug\Pedra,Papel e Tesoura.csproj.AssemblyReference.cache
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\obj\Debug\Pedra_Papel_e_Tesoura.FrmPPT.resources
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\obj\Debug\Pedra_Papel_e_Tesoura.Properties.Resources.resources
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\obj\Debug\Pedra,Papel e Tesoura.csproj.GenerateResource.cache
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\obj\Debug\Pedra,Papel e Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\bin\Debug\Pedra,Papel e Tesoura.exe.config
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\bin\Debug\Pedra,Papel e Tesoura.exe
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\bin\Debug\Pedra,Papel e Tesoura.pdb
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\obj\Debug\Pedra,Papel e Tesoura.exe
+C:\Users\guilherme.ssantana9\source\repos\Pedra,Papel e Tesoura\Pedra,Papel e Tesoura\obj\Debug\Pedra,Papel e Tesoura.pdb
