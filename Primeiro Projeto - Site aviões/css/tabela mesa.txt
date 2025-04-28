@@ -1,0 +1,9 @@
+1,2,3 impossivel
+
+3,4,5 escaleno
+
+2,2,4 impossivel
+
+4,4,4 equilatero
+
+5,3,3 isoceles

@@ -1,0 +1,15 @@
+1) Faça uma função que receba a média final de um aluno 
+por parâmetro e retorne o seu conceito, conforme a tabela abaixo:
+
+Nota			Conceito
+de 0,0 a 4,9		D
+de 5,0 a 6,9		C
+de 7,0 a 8,9		B
+de 9,0 a 10,0		A
+---------------------------------------
+2) Faça uma função que receba um vetor X(20) de reais , por parâmetro, 
+e retorne a soma dos elementos de X.
+---------------------------------------
+3) Faça um procedimento que recebe, por parâmetro, um vetor A(50) de reais e imprima-o ordenado em ordem crescente.
+---------------------------------------
+4) Faça uma função que receba 3 valores inteiros por parâmetro e retorne-os ordenados em ordem crescente.

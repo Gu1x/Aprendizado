@@ -1,0 +1,15 @@
+clicar no frame - hastag no menu superior esquerdo
+com o frame selecionado na aba frame lado direito abra a opçao phone
+escolhi o frame do ultimo iphone (15)
+o figma colocou um frame do tamanho do iphone de 430 x 932 px
+renomear o frame de pagina 1
+verificou o resultado no present observe que mostrara a moldura do iphone 
+retangulo no cabeçalho 
+fiz uma copia para o rodape 
+e varios retangulo no meio da tela
+testar no live server
+rolamento vertical cima baixo
+selecionar a pagina um e copiar a direita fazendo outra pagina
+menu no rodape criar tres quadrados 
+no menu prototype interactions escolhei o evento, tap = click
+scroll

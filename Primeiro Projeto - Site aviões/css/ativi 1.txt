@@ -1,0 +1,8 @@
+atividade
+criar uma lista de açoes para fazer a soma do numero 1 com o numero 2
+
+digitar o numero 1
+digitar o sinal mais
+digitar o numero 2
+digitar o sinal de igual
+

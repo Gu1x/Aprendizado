@@ -1,0 +1,40 @@
+window.onload = function (){
+        window.document.getElementById('um').innerHTML="conteudo dinamico"
+
+        document.getElementById('um').onclick =calculaIdade;
+
+        document.getElementById('dois').ondblclick = function(){
+            calculaIdade();
+        }
+
+        document.getElementById('tres').onmouseover = function(){
+            
+    let AnoDeNasc, resp
+    AnoDeNasc = prompt('ano do seu nascimento')
+    AnoAtual = prompt('ano atual')
+
+
+    resp = Number(AnoAtual) - Number(AnoDeNasc)
+
+    alert(`voce nasceu no ano de  ${AnoDeNasc} e tera no final do ano de ${AnoAtual} : ${resp} anos `)
+
+    console.log(` voce nasceu no ano de  ${AnoDeNasc} e tera no final do ano de ${AnoAtual} : ${resp} anos `)
+    }
+    //Arrow function - funçao seta
+    document.getElementById('quatro').onmouseout = ()=>{
+        
+    let AnoDeNasc, resp
+    AnoDeNasc = prompt('ano do seu nascimento')
+    AnoAtual = prompt('ano atual')
+
+
+    resp = Number(AnoAtual) - Number(AnoDeNasc)
+
+    alert(`voce nasceu no ano de  ${AnoDeNasc} e tera no final do ano de ${AnoAtual} : ${resp} anos `)
+
+    console.log(` voce nasceu no ano de  ${AnoDeNasc} e tera no final do ano de ${AnoAtual} : ${resp} anos `)
+
+   
+
+    }
+}
