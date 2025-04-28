@@ -1,0 +1,7 @@
+C:\Users\guilherme.ssantana9\source\repos\Aposentadoria\bin\Debug\Aposentadoria.exe.config
+C:\Users\guilherme.ssantana9\source\repos\Aposentadoria\bin\Debug\Aposentadoria.exe
+C:\Users\guilherme.ssantana9\source\repos\Aposentadoria\bin\Debug\Aposentadoria.pdb
+C:\Users\guilherme.ssantana9\source\repos\Aposentadoria\obj\Debug\Aposentadoria.csproj.AssemblyReference.cache
+C:\Users\guilherme.ssantana9\source\repos\Aposentadoria\obj\Debug\Aposentadoria.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.ssantana9\source\repos\Aposentadoria\obj\Debug\Aposentadoria.exe
+C:\Users\guilherme.ssantana9\source\repos\Aposentadoria\obj\Debug\Aposentadoria.pdb

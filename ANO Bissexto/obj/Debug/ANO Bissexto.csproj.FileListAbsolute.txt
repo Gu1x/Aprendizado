@@ -1,0 +1,7 @@
+C:\Users\guilherme.ssantana9\source\repos\ANO Bissexto\obj\Debug\ANO Bissexto.csproj.AssemblyReference.cache
+C:\Users\guilherme.ssantana9\source\repos\ANO Bissexto\obj\Debug\ANO Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.ssantana9\source\repos\ANO Bissexto\bin\Debug\ANO Bissexto.exe.config
+C:\Users\guilherme.ssantana9\source\repos\ANO Bissexto\bin\Debug\ANO Bissexto.exe
+C:\Users\guilherme.ssantana9\source\repos\ANO Bissexto\bin\Debug\ANO Bissexto.pdb
+C:\Users\guilherme.ssantana9\source\repos\ANO Bissexto\obj\Debug\ANO Bissexto.exe
+C:\Users\guilherme.ssantana9\source\repos\ANO Bissexto\obj\Debug\ANO Bissexto.pdb
